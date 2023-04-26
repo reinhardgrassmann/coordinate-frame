@@ -18,10 +18,11 @@ The image with coins (one Euro, one [loonie](https://en.wikipedia.org/wiki/Looni
 The left one is printed with Formlabs' Flexilbe 80A resin.
 For the right one, clear V4 resin is used. 
 
-<img src="image_1.png" alt="drawing" width="200"/>
-<img src="image_2.png" alt="drawing" width="200"/>
-<img src="image_3.png" alt="drawing" width="200"/>
-
+<p float="left">
+  <img src="image_1.png" alt="drawing" width="200"/>
+  <img src="image_2.png" alt="drawing" width="200"/>
+  <img src="image_3.png" alt="drawing" width="200"/>
+</p>
 
 ---
 ### Dimensions
