@@ -6,6 +6,8 @@ They found use in [CSC375H course](https://robotics.cs.toronto.edu/courses.html)
 
 ![](image_0.png)
 
+See the short feature of the robotics teaching lab in the UofT Magazine:
+[Meet the ‘Cobot’ -- U of T Mississauga is home to one of Canada’s most advanced robotics teaching labs](https://magazine.utoronto.ca/campus/meet-the-cobot-utm-undergraduate-robotics-teaching-lab/)
 
 ---
 ### 3d printing
